@@ -4,3 +4,9 @@
 [submodule "Operating Systems/OS-Labs"]
 	path = Operating Systems/OS-Labs
 	url = https://github.com/OmidPanakari/OS-Labs
+[submodule "Cyber Physical Systems/AutoWaterCan"]
+	path = Cyber Physical Systems/AutoWaterCan
+	url = https://github.com/OmidPanakari/AutoWaterCan
+[submodule "Cyber Physical Systems/MotionControlledPongGame"]
+	path = Cyber Physical Systems/MotionControlledPongGame
+	url = https://github.com/OmidPanakari/MotionControlledPongGame
