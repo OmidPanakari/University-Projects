@@ -22,3 +22,6 @@
 [submodule "Computer Networks/FTP-Server"]
 	path = Computer Networks/FTP-Server
 	url = https://github.com/OmidPanakari/FTP-Server
+[submodule "Computer Architecture/ARM"]
+	path = Computer Architecture/ARM
+	url = https://github.com/OmidPanakari/ARM
