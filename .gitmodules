@@ -1,3 +1,6 @@
 [submodule "Machine Learning/Iranian-Traditional-Music-Dastgah-Classifier"]
 	path = Machine Learning/Iranian-Traditional-Music-Dastgah-Classifier
 	url = https://github.com/OmidPanakari/Iranian-Traditional-Music-Dastgah-Classifier
+[submodule "Operating Systems/OS-Labs"]
+	path = Operating Systems/OS-Labs
+	url = https://github.com/OmidPanakari/OS-Labs
