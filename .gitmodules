@@ -25,3 +25,6 @@
 [submodule "Computer Architecture/ARM"]
 	path = Computer Architecture/ARM
 	url = https://github.com/OmidPanakari/ARM
+[submodule "Crypto Currency/Crypto-Currency-Course"]
+	path = Crypto Currency/Crypto-Currency-Course
+	url = https://github.com/OmidPanakari/Crypto-Currency-Course
