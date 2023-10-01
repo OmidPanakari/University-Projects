@@ -10,3 +10,9 @@
 [submodule "Cyber Physical Systems/MotionControlledPongGame"]
 	path = Cyber Physical Systems/MotionControlledPongGame
 	url = https://github.com/OmidPanakari/MotionControlledPongGame
+[submodule "Internet Engineering/Baloot"]
+	path = Internet Engineering/Baloot
+	url = https://github.com/OmidPanakari/Baloot
+[submodule "Internet Engineering/BalootFront"]
+	path = Internet Engineering/BalootFront
+	url = https://github.com/OmidPanakari/BalootFront
