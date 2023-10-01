@@ -16,3 +16,9 @@
 [submodule "Internet Engineering/BalootFront"]
 	path = Internet Engineering/BalootFront
 	url = https://github.com/OmidPanakari/BalootFront
+[submodule "Computer Networks/TCP-Simulator"]
+	path = Computer Networks/TCP-Simulator
+	url = https://github.com/OmidPanakari/TCP-Simulator
+[submodule "Computer Networks/FTP-Server"]
+	path = Computer Networks/FTP-Server
+	url = https://github.com/OmidPanakari/FTP-Server
